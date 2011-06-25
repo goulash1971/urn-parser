@@ -1,6 +1,4 @@
 .DS_Store
 material/
 node_modules/
-lib/*.js
-dist/
 npm-debug.log
