@@ -39,7 +39,7 @@ Parses an URN into components (optionally in *strict* mode)
 Creates a *complete* URN definition from its components
 
 ##### Method `Parser.format(obj)`
-Formats an URI definition into a well-formed URN string
+Formats an URN definition into a well-formed URN string
 
 #### Function `urn-parser.parse`
 The `parse` function is a proxy to the `Parser.parse(uriStrm, strictMode)` method on a singleton `Parser`
