@@ -42,7 +42,7 @@ Creates a *complete* URN definition from its components
 Formats an URN definition into a well-formed URN string
 
 #### Function `urn-parser.parse`
-The `parse` function is a proxy to the `Parser.parse(uriStrm, strictMode)` method on a singleton `Parser`
+The `parse` function is a proxy to the `Parser.parse(urnStr, strictMode)` method on a singleton `Parser`
 instance that is created for the module.
 
 #### Function `urn-parser.complete`
